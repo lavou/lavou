@@ -3,7 +3,9 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" />
 
 <p>
-I am a data scientist...
+I am a data scientist/machine learning researcher at Data Scientist Retreat in Berlin 
+    m a data scientist/machine learning researcher at Data Scientist Retreat in Berlin 
+    a data scientist/machine learning researcher at Data Scientist Retreat in Berlin 
 </p>
 
 
