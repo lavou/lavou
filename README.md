@@ -1,5 +1,7 @@
 ### Hi, I am Paraskevi 👋
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <p>
 I am a data scientist...
 </p>
@@ -54,12 +56,10 @@ I am a data scientist...
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2c.svg?logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Kears" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"></a>
-    <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-8CAAE6.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="statsmodels" src="https://custom-icon-badges.demolab.com/badge/statsmodels-4934BF.svg?logo=statsmodels-logo&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="D3" src="https://img.shields.io/badge/D3.js-F9A03C.svg?logo=d3.js&logoColor=white"></a>
-    <a href="#"><img alt="Gazebo" src="https://custom-icon-badges.demolab.com/badge/Gazebo-FF7800.svg?logo=gazebo_icon&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"></a>
@@ -97,8 +97,6 @@ I am a data scientist...
 
 <details> 
   <summary><h3>📊 Github Stats and Activity</h3></summary>
-
-  > <b>Note:</b> The stats and activity of this account are metrics only of my public code and do not reflect my overall experience or skill level.
 
   <h3>🔥 Streak Stats</h3>
 
