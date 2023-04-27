@@ -1,9 +1,7 @@
-### Hi, I am Paraskevi 👋
+### Hi, I am Paraskevi Tassopoulou, but they call me Voula 👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" />
-
-## blah blahblahblahblahblahblahblahv
-- ✍ blah
+## about
+- ✍ I have a biomedical background and lookin
 - 🔭 blah
 - 👯 I'm looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -11,10 +9,10 @@
 - ⚡ *blah*
 
 
-### Thanks for visting!
+
 
 ---
-### 🧰 My Daily Languages and Tools
+### my daily languages and tools
 <p>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />      
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
