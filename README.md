@@ -9,6 +9,7 @@
 📫 How to reach me: https://www.linkedin.com/in/paraskevi-tassopoulou-04070b141/
 
 
+
 #### my daily languages and tools
 <p>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />      
