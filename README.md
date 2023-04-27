@@ -6,7 +6,7 @@
 
 💬 I love math and I very much enjoy coding in Python! I am currently expanding my knowledge in GNNs. I am always up for discussing ideas and for collective efforts, so if you're interested don't hesitate to contact me.
 
---
+---
 
 
 #### my daily languages and tools
