@@ -1,5 +1,8 @@
 ### Hi, I am Voula 👋
 
+-----
+
+
 #### about 
 ⚡  I studied Pharmacy and Molecular Medicine, where I was first introduced into Bioinformatics. After working in the pharmaceutical industry for a little while, I switched (back) to data science. I just completed an intense ML retreat in Berlin, where I was brainstormed with knowledge and ideas. I now want to apply all this in short projects here! 
 
