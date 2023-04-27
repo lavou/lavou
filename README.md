@@ -1,12 +1,12 @@
 ### Hi, I am Paraskevi Tassopoulou, but they call me Voula 👋
 
-## about
-- ✍ I have a biomedical background and lookin
-- 🔭 blah
-- 👯 I'm looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ *blah*
+## About 
+- ⚡  I studied Pharmacy and Molecular Medicine, where I was first introduced into Bioinformatics. After working in the pharmaceutical industry for a little while, I switched (back) to data science. I just completed an intense ML retreat in Berlin, where I was brainstormed with knowledge and ideas. I now want to apply all this in short projects here! 
+
+
+- 💬 I love math and I very much enjoy coding in Python! I am currently expanding my knowledge in GNNs. I am alway up for discussing ideas and for collective efforts, so if you're interested don't hesitate to contact.
+
+- 📫 How to reach me: https://www.linkedin.com/in/paraskevi-tassopoulou-04070b141/
 
 
 
