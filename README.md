@@ -5,7 +5,7 @@
 
 #### About 
 I am currently coding in RStudio, analyzing health-related data to study the effects of medications in large populations.
-Also, improving my skills in Python and interactive visualizations. 
+Also, improving my skills in Python and interactive visualizations. Interested in exploring ways to use ML in healthcare research.
 
 -----
 
